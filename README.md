@@ -1,6 +1,6 @@
 # Recuperatorio
 - Fecha: 25/08/2021
-- Nombre y apellido:
+- Nombre y apellido: Agustin Gentile
 
 ## Ejercicio
 Forkear y clonar este repo.

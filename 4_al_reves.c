@@ -4,7 +4,12 @@
  * Por ejemplo para la entrada 12345 debe imprimir 54321.
  *
  */
+#include <stdio.h>
+#include <math.h>
+int main(int argc, char *argv[1]) {
 
-int main() {
+  int a = atoi(argv[1]);
 
+
+  return 0;
 }

@@ -4,7 +4,10 @@
  * "no iguales" de lo contrario.
  *
  */
+#include <stdlib.h>
+#include <math.h>
 
-int main() {
-  
+int main(int argc, char *argv[]) {
+ *atoi
+    a=b
 }
